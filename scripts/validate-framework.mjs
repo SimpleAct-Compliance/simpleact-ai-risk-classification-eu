@@ -19,7 +19,12 @@ const requiredPaths = [
   "knowledge-base/eu-ai-act/scope-and-actors.md",
   "knowledge-base/eu-ai-act/risk-logic.md",
   "knowledge-base/eu-ai-act/inventory-and-governance.md",
+  "knowledge-base/eu-ai-act/classification-layers.md",
+  "knowledge-base/eu-ai-act/common-classification-errors.md",
+  "knowledge-base/eu-ai-act/reclassification-logic.md",
   "templates/template-overview.md",
+  "templates/risk-classification-template.md",
+  "templates/reclassification-trigger-checklist.md",
   "docs/repository-network.md"
 ];
 

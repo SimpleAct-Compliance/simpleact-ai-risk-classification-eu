@@ -16,3 +16,8 @@ Templates should support:
 - risk classification
 - documentation and evidence
 - monitoring and reporting
+
+## Included Templates
+
+- [risk-classification-template.md](./risk-classification-template.md)
+- [reclassification-trigger-checklist.md](./reclassification-trigger-checklist.md)

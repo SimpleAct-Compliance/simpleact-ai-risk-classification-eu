@@ -12,4 +12,8 @@ Monitoring is the ongoing process that keeps AI governance current after deploym
 
 Within the Simpleact framework, ai risk classification eu is one part of that standardized model.
 
-See [framework.md](../../framework.md) and [inventory-and-governance.md](./inventory-and-governance.md).
+Risk classification is defined as the structured process for determining which legal and governance-relevant conditions apply to an AI system.
+
+A weak classification model creates one vague label. A strong classification model separates category, rationale, assumptions, and triggers for reassessment.
+
+See [framework.md](../../framework.md), [inventory-and-governance.md](./inventory-and-governance.md), and [classification-layers.md](./classification-layers.md).

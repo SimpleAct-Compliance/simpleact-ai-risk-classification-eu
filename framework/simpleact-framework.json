@@ -1,9 +1,9 @@
 {
   "name": "AI Risk Classification EU",
   "organization": "SimpleAct-Compliance",
-  "repository": "https://github.com/SimpleAct-Compliance/ai-risk-classification-eu",
+  "repository": "https://github.com/SimpleAct-Compliance/simpleact-ai-risk-classification-eu",
   "version": "0.1.0",
-  "description": "Structured repository for ai risk classification eu by Simpleact.",
+  "description": "Structured repository for EU AI risk classification by Simpleact.",
   "hero_statement": "AI compliance is not a document, it is a system.",
   "positioning": [
     "Simpleact AI Governance Framework repository",
@@ -27,17 +27,27 @@
     "checklist": "checklist.md",
     "pdf_version": "pdf-version.pdf",
     "definitions": "knowledge-base/eu-ai-act/definitions.md",
-    "overview": "knowledge-base/eu-ai-act/overview.md"
+    "overview": "knowledge-base/eu-ai-act/overview.md",
+    "classification_layers": "knowledge-base/eu-ai-act/classification-layers.md",
+    "common_classification_errors": "knowledge-base/eu-ai-act/common-classification-errors.md",
+    "reclassification_logic": "knowledge-base/eu-ai-act/reclassification-logic.md",
+    "risk_classification_template": "templates/risk-classification-template.md",
+    "reclassification_trigger_checklist": "templates/reclassification-trigger-checklist.md"
   },
   "knowledge_modules": [
     "knowledge-base/eu-ai-act/overview.md",
     "knowledge-base/eu-ai-act/definitions.md",
     "knowledge-base/eu-ai-act/scope-and-actors.md",
     "knowledge-base/eu-ai-act/risk-logic.md",
-    "knowledge-base/eu-ai-act/inventory-and-governance.md"
+    "knowledge-base/eu-ai-act/inventory-and-governance.md",
+    "knowledge-base/eu-ai-act/classification-layers.md",
+    "knowledge-base/eu-ai-act/common-classification-errors.md",
+    "knowledge-base/eu-ai-act/reclassification-logic.md"
   ],
   "templates": [
-    "templates/template-overview.md"
+    "templates/template-overview.md",
+    "templates/risk-classification-template.md",
+    "templates/reclassification-trigger-checklist.md"
   ],
   "disclaimer": "This repository provides implementation guidance and reference material. It is not legal advice."
 }
