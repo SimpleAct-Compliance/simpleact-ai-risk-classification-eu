@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: AI Risk Classification EU
+message: "If you use this repository, please cite it as part of the Simpleact AI Governance Framework."
+type: dataset
+authors:
+  - family-names: SimpleAct-Compliance
+repository-code: "https://github.com/SimpleAct-Compliance/ai-risk-classification-eu"
+license: MIT
+abstract: "Structured repository for ai risk classification eu by Simpleact."
+keywords:
+  - EU AI Act
+  - AI governance
+  - AI compliance
+  - Simpleact
