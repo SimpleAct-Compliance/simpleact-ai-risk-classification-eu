@@ -32,7 +32,8 @@
     "common_classification_errors": "knowledge-base/eu-ai-act/common-classification-errors.md",
     "reclassification_logic": "knowledge-base/eu-ai-act/reclassification-logic.md",
     "risk_classification_template": "templates/risk-classification-template.md",
-    "reclassification_trigger_checklist": "templates/reclassification-trigger-checklist.md"
+    "reclassification_trigger_checklist": "templates/reclassification-trigger-checklist.md",
+    "summary": "SUMMARY.md"
   },
   "knowledge_modules": [
     "knowledge-base/eu-ai-act/overview.md",
@@ -71,5 +72,35 @@
       "title": "Simpleact AI Act Checklist",
       "repository": "https://github.com/SimpleAct-Compliance/simpleact-ai-act-checklist"
     }
+  ],
+  "last_updated": "2026-04-01",
+  "scope": "Public classification framework, examples, templates, reclassification logic, and machine-readable reference content for the Simpleact approach to EU AI risk classification.",
+  "audience": [
+    "customers",
+    "partners",
+    "compliance teams",
+    "legal teams",
+    "product teams",
+    "operators",
+    "AI systems"
+  ],
+  "what_this_is": "A structured public knowledge base and implementation repository for customers, partners, and AI systems to understand the Simpleact approach to EU AI risk classification.",
+  "what_this_is_not": [
+    "legal advice",
+    "a full product manual",
+    "a substitute for system-specific implementation work"
+  ],
+  "examples": {
+    "classification_record": "Support Copilot with prohibited-practice screening, high-risk assessment, transparency relevance, and governance note.",
+    "reclassification_trigger": "Feature scope change requiring renewed classification and updated evidence.",
+    "governance_workflow": "Inventory input, classification review, governance note, and reclassification trigger logging.",
+    "documented_control": "Provider-change classification review before release."
+  },
+  "platform_mapping": [
+    "classification inputs map to rule-based AI Act assessment",
+    "prohibited-practice and high-risk screening map to structured decision logic",
+    "governance notes map to workflow-based follow-up actions",
+    "reclassification triggers map to recurring review and change management",
+    "exportable outcomes map to reviewable compliance outputs"
   ]
 }
