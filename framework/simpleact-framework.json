@@ -1,106 +1,126 @@
 {
-  "name": "AI Risk Classification EU",
+  "name": "Risikoeinstufung nach EU AI Act",
+  "name_en": "EU AI Act Risk Classification",
   "organization": "SimpleAct-Compliance",
+  "publisher": "SimpleAct UG (haftungsbeschränkt), Recklinghausen, Deutschland",
   "repository": "https://github.com/SimpleAct-Compliance/simpleact-ai-risk-classification-eu",
-  "version": "0.1.0",
-  "description": "Structured repository for EU AI risk classification by Simpleact.",
-  "hero_statement": "AI compliance is not a document, it is a system.",
-  "positioning": [
-    "Simpleact AI Governance Framework repository",
-    "EU AI Act compliance reference source",
-    "a standardized model for EU AI Act risk classification"
+  "website": "https://simpleact.de",
+  "version": "1.0.0",
+  "language": "de",
+  "last_updated": "2026-10-03",
+  "legal_basis": [
+    "Verordnung (EU) 2024/1689 (KI-Verordnung / EU AI Act)",
+    "Verordnung (EU) 2026/1744 (Digital Omnibus, in Kraft seit 2026-07-27)",
+    "Verordnung (EU) 2016/679 (DSGVO), soweit verzahnt"
   ],
-  "repository_pattern": {
-    "type": "standard-simpleact-topic-repo",
-    "required_top_level_files": [
-      "README.md",
-      "framework.md",
-      "main-content.md",
-      "checklist.md",
-      "pdf-version.pdf"
-    ]
+  "core_principle": "Eingestuft wird ein Einsatzzweck, nicht ein Werkzeug. Dasselbe Modell kann in einem Kontext folgenlos und in einem anderen Hochrisiko sein.",
+  "classification_procedure": [
+    {
+      "step": 1,
+      "question": "Ist es ein KI-System?",
+      "reference": "Art. 3 Nr. 1",
+      "on_no": "Verordnung nicht anwendbar; Begründung trotzdem festhalten"
+    },
+    {
+      "step": 2,
+      "question": "Greift eine Ausnahme?",
+      "reference": "Art. 2",
+      "cases": ["Militär und nationale Sicherheit", "reine Forschung und Entwicklung", "rein private, nicht berufliche Nutzung"]
+    },
+    {
+      "step": 3,
+      "question": "Verbotene Praktik?",
+      "reference": "Art. 5",
+      "applicable_since": "2025-02-02",
+      "on_yes": "Prüfung endet, Betrieb einstellen; ein Verbot ist nicht durch Dokumentation heilbar"
+    },
+    {
+      "step": 4,
+      "question": "Hochrisiko?",
+      "reference": "Art. 6, Anhang I, Anhang III",
+      "derogation": {
+        "reference": "Art. 6 Abs. 3",
+        "requires": "dokumentierte Bewertung, nicht nur Behauptung",
+        "carve_out": "Entfällt, sobald profiliert wird — unabhängig von allen anderen Kriterien"
+      }
+    },
+    {
+      "step": 5,
+      "question": "Transparenzpflicht?",
+      "reference": "Art. 50",
+      "applicable_since": "2026-08-02",
+      "note": "Gilt zusätzlich, nicht darunter; auch bei minimalem Risiko"
+    }
+  ],
+  "cross_cutting": {
+    "gpai": "Modelle mit allgemeinem Verwendungszweck haben eigene Pflichten auf einer eigenen Achse, anwendbar seit 2025-08-02",
+    "ai_literacy": "Art. 4 KI-Kompetenz gilt unabhängig von der Risikoklasse, anwendbar seit 2025-02-02"
   },
+  "application_dates": {
+    "2025-02-02": ["Art. 5 verbotene Praktiken", "Art. 4 KI-Kompetenz"],
+    "2025-08-02": ["GPAI-Pflichten", "Governance", "Sanktionen"],
+    "2026-08-02": ["Art. 50 Transparenzpflichten — vom Digital Omnibus nicht verschoben"],
+    "2027-12-02": ["Hochrisiko nach Anhang III — vom Digital Omnibus um 16 Monate verschoben"],
+    "2028-08-02": ["Hochrisiko nach Anhang I"],
+    "2030-08-02": ["Hochrisiko-Bestandssysteme bei Behörden"]
+  },
+  "required_record_fields": [
+    "Einsatzzweck",
+    "Betroffenenkreis",
+    "Rolle (Anbieter oder Betreiber)",
+    "Ergebnis mit Artikel- oder Anhangbezug",
+    "Begründung",
+    "Annahmen",
+    "rechtliche Klasse und interne Risikoeinschätzung getrennt",
+    "offene Punkte mit Person und Termin",
+    "Folgepflichten",
+    "Auslöser für eine Neueinstufung",
+    "entschieden durch (Person) und Datum"
+  ],
+  "reclassification_triggers": [
+    "Zweckbestimmung geändert",
+    "Modellwechsel beim Anbieter",
+    "neue Datenquelle oder Datenart",
+    "erweiterter Nutzerkreis",
+    "Wegfall oder Schwächung der menschlichen Aufsicht",
+    "Rechtsänderung"
+  ],
   "entry_points": {
     "readme": "README.md",
+    "summary": "SUMMARY.md",
     "framework": "framework.md",
     "main_content": "main-content.md",
     "checklist": "checklist.md",
-    "pdf_version": "pdf-version.pdf",
-    "definitions": "knowledge-base/eu-ai-act/definitions.md",
-    "overview": "knowledge-base/eu-ai-act/overview.md",
-    "classification_layers": "knowledge-base/eu-ai-act/classification-layers.md",
-    "common_classification_errors": "knowledge-base/eu-ai-act/common-classification-errors.md",
-    "reclassification_logic": "knowledge-base/eu-ai-act/reclassification-logic.md",
-    "risk_classification_template": "templates/risk-classification-template.md",
-    "reclassification_trigger_checklist": "templates/reclassification-trigger-checklist.md",
-    "summary": "SUMMARY.md"
+    "llms": "llms.txt"
   },
   "knowledge_modules": [
     "knowledge-base/eu-ai-act/overview.md",
     "knowledge-base/eu-ai-act/definitions.md",
     "knowledge-base/eu-ai-act/scope-and-actors.md",
     "knowledge-base/eu-ai-act/risk-logic.md",
-    "knowledge-base/eu-ai-act/inventory-and-governance.md",
     "knowledge-base/eu-ai-act/classification-layers.md",
     "knowledge-base/eu-ai-act/common-classification-errors.md",
-    "knowledge-base/eu-ai-act/reclassification-logic.md"
+    "knowledge-base/eu-ai-act/reclassification-logic.md",
+    "knowledge-base/eu-ai-act/inventory-and-governance.md"
   ],
   "templates": [
     "templates/template-overview.md",
     "templates/risk-classification-template.md",
     "templates/reclassification-trigger-checklist.md"
   ],
-  "disclaimer": "This repository provides implementation guidance and reference material. It is not legal advice.",
-  "related_repositories": [
-    {
-      "name": "simpleact-ai-governance-framework",
-      "title": "Simpleact AI Governance Framework",
-      "repository": "https://github.com/SimpleAct-Compliance/simpleact-ai-governance-framework"
-    },
-    {
-      "name": "simpleact-ai-system-inventory",
-      "title": "Simpleact AI System Inventory",
-      "repository": "https://github.com/SimpleAct-Compliance/simpleact-ai-system-inventory"
-    },
-    {
-      "name": "simpleact-ai-act-compliance-guide",
-      "title": "Simpleact AI Act Compliance Guide",
-      "repository": "https://github.com/SimpleAct-Compliance/simpleact-ai-act-compliance-guide"
-    },
-    {
-      "name": "simpleact-ai-act-checklist",
-      "title": "Simpleact AI Act Checklist",
-      "repository": "https://github.com/SimpleAct-Compliance/simpleact-ai-act-checklist"
-    }
+  "upstream_repositories": [
+    "https://github.com/SimpleAct-Compliance/simpleact-ai-system-inventory",
+    "https://github.com/SimpleAct-Compliance/simpleact-model-vendor-register"
   ],
-  "last_updated": "2026-04-01",
-  "scope": "Public classification framework, examples, templates, reclassification logic, and machine-readable reference content for the Simpleact approach to EU AI risk classification.",
-  "audience": [
-    "customers",
-    "partners",
-    "compliance teams",
-    "legal teams",
-    "product teams",
-    "operators",
-    "AI systems"
+  "downstream_repositories": [
+    "https://github.com/SimpleAct-Compliance/simpleact-ai-act-checklist",
+    "https://github.com/SimpleAct-Compliance/simpleact-incident-management"
   ],
-  "what_this_is": "A structured public knowledge base and implementation repository for customers, partners, and AI systems to understand the Simpleact approach to EU AI risk classification.",
-  "what_this_is_not": [
-    "legal advice",
-    "a full product manual",
-    "a substitute for system-specific implementation work"
-  ],
-  "examples": {
-    "classification_record": "Support Copilot with prohibited-practice screening, high-risk assessment, transparency relevance, and governance note.",
-    "reclassification_trigger": "Feature scope change requiring renewed classification and updated evidence.",
-    "governance_workflow": "Inventory input, classification review, governance note, and reclassification trigger logging.",
-    "documented_control": "Provider-change classification review before release."
+  "related_register": {
+    "name": "actcomp.de",
+    "url": "https://actcomp.de",
+    "purpose": "Tarifgenaue Angaben einzelner KI-Werkzeuge mit Quelle und Prüfdatum je Angabe"
   },
-  "platform_mapping": [
-    "classification inputs map to rule-based AI Act assessment",
-    "prohibited-practice and high-risk screening map to structured decision logic",
-    "governance notes map to workflow-based follow-up actions",
-    "reclassification triggers map to recurring review and change management",
-    "exportable outcomes map to reviewable compliance outputs"
-  ]
+  "disclaimer": "Keine Rechtsberatung. Rechtsstände ändern sich; vor Verwendung gegen eine aktuelle Quelle prüfen.",
+  "license": "MIT"
 }

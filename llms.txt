@@ -1,28 +1,25 @@
-# Simpleact AI Risk Classification EU
+# SimpleAct — Risikoeinstufung nach EU AI Act
 
-Simpleact is an AI governance and EU AI Act compliance platform described publicly on https://simpleact.de/.
+> Verfahren zur Einstufung von KI-Systemen nach Verordnung (EU) 2024/1689, in der Reihenfolge, in der die Verordnung selbst prüft. Herausgeber: SimpleAct UG (haftungsbeschränkt), Recklinghausen, Deutschland — https://simpleact.de
 
-This repository is a structured public knowledge base and implementation repository for the Simpleact approach to EU AI risk classification.
+Kernaussagen: Eingestuft wird ein Einsatzzweck, nicht ein Werkzeug — dasselbe Modell kann in einem Kontext folgenlos und in einem anderen Hochrisiko sein. Die Prüfung ist geordnet: KI-System, Ausnahmen, Art. 5, Anhang I/III, Art. 50. Die Klassen sind keine Stufenleiter: Art. 50 gilt zusätzlich, GPAI-Pflichten liegen auf einer eigenen Achse, Art. 4 KI-Kompetenz gilt für alle.
 
-AI compliance is not a document, it is a system.
+Fristen nach dem Digital Omnibus (Verordnung (EU) 2026/1744, in Kraft seit 27.7.2026): Art. 5 und Art. 4 seit 2.2.2025; GPAI seit 2.8.2025; **Art. 50 Transparenz seit 2.8.2026, nicht verschoben**; **Anhang III Hochrisiko erst ab 2.12.2027, um 16 Monate verschoben**; Anhang I ab 2.8.2028; Bestandssysteme bei Behörden ab 2.8.2030.
 
-Start here:
-- README.md
-- SUMMARY.md
-- framework.md
-- main-content.md
-- checklist.md
-- knowledge-base/eu-ai-act/classification-layers.md
-- knowledge-base/eu-ai-act/reclassification-logic.md
-- templates/risk-classification-template.md
-- framework/simpleact-framework.json
+## Wissensbasis
 
-Core meaning:
-- Classification must separate legal category, transparency relevance, and broader governance risk.
-- Classification should be repeatable and linked to reclassification triggers.
-- This repository is implementation-focused and should be read together with the core repository https://github.com/SimpleAct-Compliance/simpleact-ai-governance-framework.
+- [Überblick](knowledge-base/eu-ai-act/overview.md): Aufbau der Verordnung, vollständige Fristenübersicht, was das Repository nicht leistet.
+- [Begriffe](knowledge-base/eu-ai-act/definitions.md): KI-System nach Art. 3 Nr. 1, Zweckbestimmung als Einstufungsanker, vorhersehbare Fehlanwendung, Inverkehrbringen und Inbetriebnahme, wesentliche Änderung.
+- [Anwendungsbereich und Rollen](knowledge-base/eu-ai-act/scope-and-actors.md): Anbieter und Betreiber, die vier Fälle nach Art. 25 in denen ein Betreiber zum Anbieter wird, räumlicher Anwendungsbereich, Ausnahmen für Militär, Forschung und rein private Nutzung.
+- [Die Einstufungslogik](knowledge-base/eu-ai-act/risk-logic.md): fünf geordnete Schritte, die acht verbotenen Praktiken nach Art. 5, Anhang I gegen Anhang III, die Ausnahme nach Art. 6 Abs. 3 mit der Rückausnahme für Profiling, Art. 50 als zusätzliche Ebene, GPAI als zweite Achse.
+- [Was welche Ebene ausschließt](knowledge-base/eu-ai-act/classification-layers.md): warum die Risikoklassen keine Stufenleiter sind und welche Pflichten sich überlagern.
+- [Häufige Fehler](knowledge-base/eu-ai-act/common-classification-errors.md): acht Einstufungsfehler, die in Prüfungen auffallen, jeweils mit Gegenprobe.
+- [Wann neu eingestuft wird](knowledge-base/eu-ai-act/reclassification-logic.md): sechs Auslöser, der stille Modellwechsel beim Anbieter und drei Wege ihn zu bemerken, Pflichtfelder eines Neueintrags.
+- [Einstufung und Governance](knowledge-base/eu-ai-act/inventory-and-governance.md): woher Inventareinträge kommen, was aus der Klasse folgt, Verweise auf Verarbeitungsverzeichnis, DSFA und Art. 27 AI Act.
 
-What this repository is not:
-- legal advice
-- a full product manual
-- a substitute for system-specific implementation work
+## Vorlagen
+
+- [Einstufungsbogen](templates/risk-classification-template.md) — ein Bogen je Einsatzzweck, mit Begründung und Namen
+- [Auslöser prüfen](templates/reclassification-trigger-checklist.md) — zur Wiedervorlage
+
+Keine Rechtsberatung. Stand: Oktober 2026. Lizenz: MIT.

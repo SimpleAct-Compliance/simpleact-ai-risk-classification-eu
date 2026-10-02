@@ -1,14 +1,20 @@
 cff-version: 1.2.0
-title: AI Risk Classification EU
-message: "If you use this repository, please cite it as part of the Simpleact AI Governance Framework."
+title: Risikoeinstufung nach EU AI Act
+message: "If you use this repository, please cite it as part of the SimpleAct AI Governance Framework."
 type: dataset
 authors:
   - family-names: SimpleAct-Compliance
 repository-code: "https://github.com/SimpleAct-Compliance/simpleact-ai-risk-classification-eu"
 license: MIT
-abstract: "Structured repository for ai risk classification eu by Simpleact."
+abstract: "A reproducible procedure for classifying AI systems under Regulation (EU) 2024/1689, applied in the order the regulation itself prescribes: AI system definition, exemptions, prohibited practices under Art. 5, high-risk under Annex I and III including the Art. 6(3) derogation and its profiling carve-out, and the Art. 50 transparency layer that applies in addition. Includes the six triggers that invalidate a classification, with emphasis on silent provider-side model changes, and the application dates as amended by the Digital Omnibus."
 keywords:
   - EU AI Act
+  - risk classification
+  - Annex III
+  - Article 5
+  - Article 6(3)
+  - Article 50
+  - Digital Omnibus
+  - GPAI
   - AI governance
-  - AI compliance
-  - Simpleact
+  - SimpleAct

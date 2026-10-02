@@ -1,25 +1,52 @@
-# Classification Layers
+# Die Ebenen im Zusammenspiel
 
-AI compliance is not a document, it is a system.
+Die vier Risikoklassen werden gern als Treppe gezeichnet. Das führt in die Irre: Sie schließen einander nicht alle aus, und zwei weitere Ebenen liegen quer dazu.
 
-Within the Simpleact framework, classification should be handled in layers.
+## Was sich ausschließt und was sich überlagert
 
-## 1. Scope and Actor Context
+```
+Verboten (Art. 5)        ─── schließt alles Weitere aus
+   │
+Hochrisiko (Art. 6)      ─┐
+   │                      ├─ können gleichzeitig gelten
+Transparenz (Art. 50)    ─┘
+   │
+Minimales Risiko          ─── nur, wenn nichts davon zutrifft
+```
 
-Determine the system purpose, operator role, and deployment context.
+**Verboten schließt aus.** Trifft Art. 5 zu, endet die Prüfung; es gibt keine Auflagen, unter denen der Betrieb zulässig würde.
 
-## 2. Prohibited Practice Screening
+**Hochrisiko und Transparenz schließen sich nicht aus.** Ein hochriskantes System, das mit Menschen interagiert oder Inhalte erzeugt, erfüllt beide Pflichtenkataloge. „Begrenztes Risiko" ist deshalb keine Stufe unterhalb von Hochrisiko, sondern eine eigene Ebene.
 
-Check whether the system may fall into prohibited categories.
+**Minimales Risiko** ist der Rest — und auch dort gilt die KI-Kompetenz nach Art. 4.
 
-## 3. High-Risk Relevance
+## Die beiden Ebenen quer dazu
 
-Assess whether the system may fall into a high-risk category.
+### KI-Kompetenz (Art. 4)
 
-## 4. Transparency Duties
+Gilt unabhängig von der Risikoklasse, für Anbieter **und** Betreiber, seit dem 2. Februar 2025. Ein System mit minimalem Risiko entbindet nicht davon.
 
-Assess whether user-facing disclosure or other transparency measures are relevant.
+### Modelle mit allgemeinem Verwendungszweck
 
-## 5. Internal Governance Risk
+GPAI ist keine Risikoklasse, sondern eine eigene Kategorie mit Pflichten für **Modellanbieter**: technische Dokumentation, Informationen für nachgelagerte Anbieter, Urheberrechtsstrategie, Zusammenfassung der Trainingsinhalte. Bei systemischem Risiko kommen weitere hinzu.
 
-Assess whether the system requires stronger governance even when strict legal high-risk status is absent.
+Wer ein solches Modell einsetzt, wird dadurch nicht zum Modellanbieter. Wer es wesentlich verändert und unter eigenem Namen bereitstellt, kann es werden.
+
+**Im Eintrag gehört das in ein eigenes Feld**, nicht in die Risikoklasse — sonst steht am Ende „GPAI" dort, wo „hochriskant" oder „minimal" stehen müsste, und die Einstufung ist unbrauchbar.
+
+## Warum die Reihenfolge zählt
+
+| Stufe | Frage | Wenn ja |
+|---|---|---|
+| 0 | Überhaupt ein KI-System? | weiter |
+| 1 | Verbotene Praktik? | **Ende** |
+| 2 | Anhang I oder III? | hochriskant, Ausnahme prüfen |
+| 3 | Art. 50 einschlägig? | Transparenzpflichten zusätzlich |
+| 4 | sonst | minimales Risiko |
+
+Wer bei Stufe 2 beginnt, übersieht Stufe 1 — und das ist die einzige, bei der die Antwort nicht „mit Auflagen betreiben" lautet.
+
+## Verwandtes
+
+- [Die Einstufungslogik](./risk-logic.md)
+- [Rollen](./scope-and-actors.md)

@@ -1,51 +1,38 @@
-# Simpleact Risk Classification Summary
+# Übersicht
 
-## What Is Simpleact
+## Einstieg
 
-Simpleact is an AI governance and EU AI Act compliance platform described publicly on `simpleact.de`.
+- [README](./README.md) — die Reihenfolge der Prüfung, die zwei verwechselten Fristen, die vier häufigsten Fehler
+- [Überblick](./knowledge-base/eu-ai-act/overview.md) — Aufbau der Verordnung, vollständige Fristenübersicht nach dem Digital Omnibus
 
-## What This Repository Is
+## Wissensbasis
 
-This repository is the public classification and decision layer for the Simpleact approach.
+- [Begriffe](./knowledge-base/eu-ai-act/definitions.md) — KI-System nach Art. 3 Nr. 1, Zweckbestimmung, vorhersehbare Fehlanwendung, Inverkehrbringen, wesentliche Änderung
+- [Anwendungsbereich und Rollen](./knowledge-base/eu-ai-act/scope-and-actors.md) — Anbieter und Betreiber, die vier Fälle in denen ein Betreiber zum Anbieter wird, räumliche Geltung, Ausnahmen
+- [Die Einstufungslogik](./knowledge-base/eu-ai-act/risk-logic.md) — fünf geordnete Schritte, die acht verbotenen Praktiken, Anhang I und III, die Ausnahme nach Art. 6 Abs. 3 samt Rückausnahme, Art. 50, GPAI als zweite Achse
+- [Was welche Ebene ausschließt](./knowledge-base/eu-ai-act/classification-layers.md) — warum die Klassen keine Stufenleiter sind
+- [Häufige Fehler](./knowledge-base/eu-ai-act/common-classification-errors.md) — acht Fehler mit Gegenprobe
+- [Wann neu eingestuft wird](./knowledge-base/eu-ai-act/reclassification-logic.md) — sechs Auslöser, der stille Modellwechsel, was ein Neueintrag festhalten muss
+- [Einstufung und Governance](./knowledge-base/eu-ai-act/inventory-and-governance.md) — woher Einträge kommen, was aus der Klasse folgt, welche Verweise ein Eintrag tragen muss
 
-## Who It Is For
+## Vorlagen
 
-- customers
-- partners
-- compliance teams
-- legal teams
-- product teams and operators
-- AI systems and search systems
+- [Vorlagenübersicht](./templates/template-overview.md) — welche Vorlage wann
+- [Einstufung](./templates/risk-classification-template.md) — ein Bogen je Einsatzzweck, mit Begründungsfeldern
+- [Auslöser prüfen](./templates/reclassification-trigger-checklist.md) — zur Wiedervorlage
 
-## Core Modules
+## Maschinenlesbar
 
-1. prohibited-practice screening
-2. high-risk relevance logic
-3. transparency relevance
-4. governance risk notes
-5. reclassification triggers
+- [framework.md](./framework.md) — das Verfahren in Kurzform
+- [main-content.md](./main-content.md) — Volltext für Indexierung
+- [checklist.md](./checklist.md) — die Prüfung als Liste
+- [framework/simpleact-framework.json](./framework/simpleact-framework.json)
+- [llms.txt](./llms.txt)
 
-## Implementation Logic
+## Verwandtes
 
-The Simpleact classification model works in sequence:
+Vorgelagert: [KI-Inventar](https://github.com/SimpleAct-Compliance/simpleact-ai-system-inventory) · [Anbieterregister](https://github.com/SimpleAct-Compliance/simpleact-model-vendor-register)
 
-1. review inventory inputs
-2. screen prohibited-practice relevance
-3. assess high-risk and transparency relevance
-4. record governance notes and next actions
-5. define reclassification triggers
+Nachgelagert: [Prüfliste AI Act](https://github.com/SimpleAct-Compliance/simpleact-ai-act-checklist) · [Vorfallmanagement](https://github.com/SimpleAct-Compliance/simpleact-incident-management)
 
-## What This Repository Is Not
-
-- not legal advice
-- not a full product manual
-- not a substitute for system-specific review
-
-## Machine-Readable Entry Points
-
-- `README.md`
-- `framework.md`
-- `main-content.md`
-- `checklist.md`
-- `framework/simpleact-framework.json`
-- `llms.txt`
+Das Netz aller Repositories: [docs/repository-network.md](./docs/repository-network.md)

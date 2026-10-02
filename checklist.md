@@ -1,43 +1,56 @@
-# Checklist
+# Prüfung als Liste
 
-AI compliance is not a document, it is a system.
+Zum Durcharbeiten je Einsatzzweck. Ein Nein ist ein Ergebnis, kein Fehler — es gehört mit Verantwortlichem und Termin in den Bogen.
 
-Within the Simpleact framework, this checklist tests whether classification is structured enough to support real compliance decisions.
+## Vor der Einstufung
 
-## Inventory
+- [ ] Der **Einsatzzweck** ist abgegrenzt, nicht nur das Werkzeug benannt
+- [ ] Bei mehreren Einsatzzwecken: je Zweck ein eigener Bogen
+- [ ] Der **Betroffenenkreis** ist benannt — wessen Rechte oder Chancen die Ausgabe berührt
+- [ ] Die eigene **Rolle** ist bestimmt: Anbieter oder Betreiber
+- [ ] Geprüft, ob die Organisation nach Art. 25 zum **Anbieter** geworden ist (Namensnennung, wesentliche Änderung, Zweckänderung, Hochrisiko-Nutzung)
+- [ ] **Anbieterangaben** liegen vor: Modell, Version, Zweckbestimmung, Dokumentation
+- [ ] Der Grad der **menschlichen Aufsicht** ist beschrieben, nicht behauptet
 
-- AI systems, tools, and providers are listed
-- owners and purposes are defined
-- deployment context is documented
-- classification starts from current inventory data
+## Einstufung
 
-## Classification
+- [ ] Schritt 1: Ist es ein **KI-System** nach Art. 3 Nr. 1? Mit Begründung
+- [ ] Schritt 2: Greift eine **Ausnahme** (Militär/nationale Sicherheit, F&E, rein privat)?
+- [ ] Schritt 3: **Art. 5** vollständig durchgegangen — alle acht Praktiken, nicht nur die bekannten
+- [ ] Schritt 4: **Anhang I** geprüft (Produktsicherheit, Konformitätsbewertung)
+- [ ] Schritt 4: **Anhang III** geprüft — alle acht Bereiche
+- [ ] Bei Anhang-III-Treffer: **Art. 6 Abs. 3** geprüft und die Bewertung dokumentiert
+- [ ] Bei Art. 6 Abs. 3: geprüft, ob **profiliert** wird — dann greift die Ausnahme nicht
+- [ ] Schritt 5: **Art. 50** geprüft, unabhängig vom Ergebnis aus Schritt 4
+- [ ] Geprüft, ob ein **Modell mit allgemeinem Verwendungszweck** zugrunde liegt
+- [ ] **Art. 4 KI-Kompetenz**: Schulungsstand der Bedienenden festgehalten
 
-- prohibited practice screening exists
-- high-risk relevance is assessed
-- assumptions and reasoning are recorded
-- legal category and internal governance risk are distinguished
-- reclassification triggers are defined
+## Dokumentation
 
-## Governance
+- [ ] **Ergebnis** eingetragen, mit Artikel- oder Anhangbezug
+- [ ] **Begründung** so geschrieben, dass sie ohne Rückfrage verständlich ist
+- [ ] **Annahmen** ausdrücklich benannt — was unterstellt wurde, weil es nicht belegt war
+- [ ] **Rechtliche Klasse** und **interne Risikoeinschätzung** in getrennten Feldern
+- [ ] **Offene Punkte** mit Namen und Termin, nicht als Leerfeld
+- [ ] **Entschieden durch**: Person, nicht Abteilung; mit Datum
 
-- roles and approvals are assigned
-- review cadence exists
-- human oversight is defined
-- classification outcomes have named decision owners
+## Anschluss
 
-## Documentation
+- [ ] **Folgepflichten** je Klasse abgeleitet und zugewiesen
+- [ ] Verweis auf das **KI-Inventar** gesetzt
+- [ ] Verweis auf das **Verarbeitungsverzeichnis** gesetzt, sofern personenbezogene Daten
+- [ ] Geprüft, ob eine **DSFA** nach Art. 35 DSGVO erforderlich ist
+- [ ] Bei Hochrisiko: geprüft, ob eine **Grundrechte-Folgenabschätzung** nach Art. 27 AI Act erforderlich ist
+- [ ] Verweis auf das **Vorfallverfahren** gesetzt
 
-- evidence-ready records exist
-- templates are used consistently
-- exports can support audits or internal review
-- rationale and assumptions are documented in a reusable format
+## Fortschreibung
 
-## Monitoring and Reporting
+- [ ] Die sechs **Auslöser** für eine Neueinstufung sind im Bogen vermerkt
+- [ ] Ein **Testsatz** gegen den stillen Modellwechsel ist eingerichtet und terminiert
+- [ ] Der **Änderungsverlauf** des Anbieters geht an eine Stelle, die ihn liest
+- [ ] Eine **Wiedervorlage** ist gesetzt, auch ohne Auslöser
+- [ ] Frühere Einstufungen bleiben **stehen** und werden nicht überschrieben
 
-- incidents and changes are tracked
-- reassessment triggers are defined
-- reporting outputs can be generated
-- changes in provider, feature, user group, or deployment trigger reclassification
+## Weiter
 
-See [framework.md](./framework.md), [knowledge-base/eu-ai-act/classification-layers.md](./knowledge-base/eu-ai-act/classification-layers.md), [knowledge-base/eu-ai-act/reclassification-logic.md](./knowledge-base/eu-ai-act/reclassification-logic.md), and [templates/risk-classification-template.md](./templates/risk-classification-template.md).
+- [Das Verfahren](./framework.md) · [Die Einstufungslogik](./knowledge-base/eu-ai-act/risk-logic.md) · [Vorlage](./templates/risk-classification-template.md)

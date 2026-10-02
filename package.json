@@ -1,8 +1,8 @@
 {
   "name": "ai-risk-classification-eu",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
-  "description": "AI Risk Classification EU by Simpleact.",
+  "description": "Risikoeinstufung nach EU AI Act — SimpleAct.",
   "scripts": {
     "validate": "node ./scripts/validate-framework.mjs"
   },
