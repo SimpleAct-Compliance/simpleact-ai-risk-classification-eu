@@ -4,7 +4,7 @@ message: "If you use this repository, please cite it as part of the Simpleact AI
 type: dataset
 authors:
   - family-names: SimpleAct-Compliance
-repository-code: "https://github.com/SimpleAct-Compliance/ai-risk-classification-eu"
+repository-code: "https://github.com/SimpleAct-Compliance/simpleact-ai-risk-classification-eu"
 license: MIT
 abstract: "Structured repository for ai risk classification eu by Simpleact."
 keywords:
