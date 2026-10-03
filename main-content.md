@@ -12,7 +12,7 @@ Daraus folgt die Grundregel: **Eingestuft wird ein Einsatzzweck, nicht ein Werkz
 
 1. **Ist es ein KI-System** nach Art. 3 Nr. 1? Maschinengestützt, mit einem Maß an Autonomie, aus Eingaben Ausgaben ableitend. Eine feste Regel in einer Tabelle ist es nicht; der Übergang ist unscharf, und die Begründung gehört festgehalten — auch bei einem Nein.
 2. **Greift eine Ausnahme?** Militär und nationale Sicherheit, reine Forschung und Entwicklung vor dem Inverkehrbringen, rein private nicht-berufliche Nutzung.
-3. **Ist es eine verbotene Praktik** nach Art. 5? Acht Praktiken, anwendbar seit 2.2.2025. Ein Treffer beendet die Prüfung: Ein Verbot lässt sich nicht durch Dokumentation heilen.
+3. **Ist es eine verbotene Praktik** nach Art. 5? Zehn Praktiken, anwendbar seit 2.2.2025. Ein Treffer beendet die Prüfung: Ein Verbot lässt sich nicht durch Dokumentation heilen.
 4. **Ist es Hochrisiko?** Anhang I knüpft an bestehende Produktsicherheitsvorschriften an, Anhang III an acht Einsatzbereiche. Bei Anhang III ist die Ausnahme nach Art. 6 Abs. 3 zu prüfen — mit der Rückausnahme: Wird profiliert, greift sie nicht.
 5. **Greift eine Transparenzpflicht** nach Art. 50? Diese Ebene liegt **neben** den anderen, nicht darunter. Sie gilt auch für Systeme mit minimalem Risiko.
 
@@ -27,6 +27,7 @@ Nach dem Digital Omnibus (Verordnung (EU) 2026/1744, in Kraft seit 27.7.2026):
 | 2.2.2025 | Art. 5 verbotene Praktiken, Art. 4 KI-Kompetenz |
 | 2.8.2025 | GPAI-Pflichten, Governance, Sanktionen |
 | 2.8.2026 | Art. 50 Transparenz — **nicht verschoben** |
+| 2.12.2026 | Zwei neue verbotene Praktiken nach Art. 5 (intime Darstellungen ohne Einwilligung, Missbrauchsdarstellungen); Ende der Art.-50-Abs.-2-Übergangsfrist für Bestandssysteme |
 | 2.12.2027 | Anhang III Hochrisiko — um 16 Monate **verschoben** |
 | 2.8.2028 | Anhang I Hochrisiko |
 | 2.8.2030 | Hochrisiko-Bestandssysteme bei Behörden |

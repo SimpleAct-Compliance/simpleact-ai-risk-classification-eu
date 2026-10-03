@@ -26,6 +26,7 @@ Nach dem **Digital Omnibus** (Verordnung (EU) 2026/1744, in Kraft seit 27.7.2026
 | 2.2.2025 | Verbotene Praktiken (Art. 5), KI-Kompetenz (Art. 4) |
 | 2.8.2025 | Pflichten für Modelle mit allgemeinem Verwendungszweck, Governance, Sanktionen |
 | **2.8.2026** | **Transparenzpflichten (Art. 50)** — vom Omnibus nicht verschoben |
+| 2.12.2026 | Zwei neue verbotene Praktiken nach Art. 5 (intime Darstellungen ohne Einwilligung, Missbrauchsdarstellungen); Ende der Art.-50-Abs.-2-Übergangsfrist für Bestandssysteme |
 | **2.12.2027** | **Hochrisiko nach Anhang III** — um 16 Monate verschoben |
 | 2.8.2028 | Hochrisiko nach Anhang I |
 | 2.8.2030 | Hochrisiko-Bestandssysteme bei Behörden |

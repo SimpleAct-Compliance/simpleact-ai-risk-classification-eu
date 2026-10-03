@@ -49,7 +49,7 @@ Begründung:
 
 ### Schritt 3 — Verbotene Praktik nach Art. 5?
 
-Alle acht Praktiken durchgegangen: ja / nein
+Alle zehn Praktiken durchgegangen: ja / nein
 
 Treffer: keiner / Nr. ___
 

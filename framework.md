@@ -18,7 +18,7 @@ Fünf Schritte in dieser Reihenfolge, vollständig in [risk-logic.md](./knowledg
 
 1. **KI-System?** Art. 3 Nr. 1. Nein heißt: Verordnung nicht anwendbar, Begründung trotzdem festhalten.
 2. **Ausnahme?** Militär und nationale Sicherheit, reine Forschung und Entwicklung, rein private Nutzung.
-3. **Verboten?** Art. 5, acht Praktiken. Ein Treffer beendet die Prüfung — ein Verbot ist nicht dokumentierbar.
+3. **Verboten?** Art. 5, zehn Praktiken. Ein Treffer beendet die Prüfung — ein Verbot ist nicht dokumentierbar.
 4. **Hochrisiko?** Anhang I (Produktsicherheit) oder Anhang III (acht Bereiche). Bei Anhang III die Ausnahme nach Art. 6 Abs. 3 prüfen — und die Rückausnahme für Profiling.
 5. **Transparenz?** Art. 50. Gilt **zusätzlich**, unabhängig vom Ergebnis aus Schritt 4.
 

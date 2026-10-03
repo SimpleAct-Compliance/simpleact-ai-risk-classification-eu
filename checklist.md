@@ -16,7 +16,7 @@ Zum Durcharbeiten je Einsatzzweck. Ein Nein ist ein Ergebnis, kein Fehler — es
 
 - [ ] Schritt 1: Ist es ein **KI-System** nach Art. 3 Nr. 1? Mit Begründung
 - [ ] Schritt 2: Greift eine **Ausnahme** (Militär/nationale Sicherheit, F&E, rein privat)?
-- [ ] Schritt 3: **Art. 5** vollständig durchgegangen — alle acht Praktiken, nicht nur die bekannten
+- [ ] Schritt 3: **Art. 5** vollständig durchgegangen — alle zehn Praktiken, nicht nur die bekannten
 - [ ] Schritt 4: **Anhang I** geprüft (Produktsicherheit, Konformitätsbewertung)
 - [ ] Schritt 4: **Anhang III** geprüft — alle acht Bereiche
 - [ ] Bei Anhang-III-Treffer: **Art. 6 Abs. 3** geprüft und die Bewertung dokumentiert

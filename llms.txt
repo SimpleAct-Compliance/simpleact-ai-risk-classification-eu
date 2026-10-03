@@ -4,14 +4,14 @@
 
 Kernaussagen: Eingestuft wird ein Einsatzzweck, nicht ein Werkzeug — dasselbe Modell kann in einem Kontext folgenlos und in einem anderen Hochrisiko sein. Die Prüfung ist geordnet: KI-System, Ausnahmen, Art. 5, Anhang I/III, Art. 50. Die Klassen sind keine Stufenleiter: Art. 50 gilt zusätzlich, GPAI-Pflichten liegen auf einer eigenen Achse, Art. 4 KI-Kompetenz gilt für alle.
 
-Fristen nach dem Digital Omnibus (Verordnung (EU) 2026/1744, in Kraft seit 27.7.2026): Art. 5 und Art. 4 seit 2.2.2025; GPAI seit 2.8.2025; **Art. 50 Transparenz seit 2.8.2026, nicht verschoben**; **Anhang III Hochrisiko erst ab 2.12.2027, um 16 Monate verschoben**; Anhang I ab 2.8.2028; Bestandssysteme bei Behörden ab 2.8.2030.
+Fristen nach dem Digital Omnibus (Verordnung (EU) 2026/1744, in Kraft seit 27.7.2026): Art. 5 und Art. 4 seit 2.2.2025; GPAI seit 2.8.2025; **Art. 50 Transparenz seit 2.8.2026, nicht verschoben**; **Anhang III Hochrisiko erst ab 2.12.2027, um 16 Monate verschoben**; Anhang I ab 2.8.2028; Bestandssysteme bei Behörden ab 2.8.2030. Zwei weitere verbotene Praktiken nach Art. 5 Buchst. ba und bb (intime Darstellungen ohne Einwilligung, Missbrauchsdarstellungen) gelten ab 2.12.2026; dort endet auch die Übergangsfrist für die Markierung nach Art. 50 Abs. 2 bei Bestandssystemen. Art. 4 ist seit 27.7.2026 neu gefasst: verlangt sind Maßnahmen zur Förderung der KI-Kompetenz, nicht mehr ein sichergestelltes Niveau je Person.
 
 ## Wissensbasis
 
 - [Überblick](knowledge-base/eu-ai-act/overview.md): Aufbau der Verordnung, vollständige Fristenübersicht, was das Repository nicht leistet.
 - [Begriffe](knowledge-base/eu-ai-act/definitions.md): KI-System nach Art. 3 Nr. 1, Zweckbestimmung als Einstufungsanker, vorhersehbare Fehlanwendung, Inverkehrbringen und Inbetriebnahme, wesentliche Änderung.
 - [Anwendungsbereich und Rollen](knowledge-base/eu-ai-act/scope-and-actors.md): Anbieter und Betreiber, die vier Fälle nach Art. 25 in denen ein Betreiber zum Anbieter wird, räumlicher Anwendungsbereich, Ausnahmen für Militär, Forschung und rein private Nutzung.
-- [Die Einstufungslogik](knowledge-base/eu-ai-act/risk-logic.md): fünf geordnete Schritte, die acht verbotenen Praktiken nach Art. 5, Anhang I gegen Anhang III, die Ausnahme nach Art. 6 Abs. 3 mit der Rückausnahme für Profiling, Art. 50 als zusätzliche Ebene, GPAI als zweite Achse.
+- [Die Einstufungslogik](knowledge-base/eu-ai-act/risk-logic.md): fünf geordnete Schritte, die zehn verbotenen Praktiken nach Art. 5, Anhang I gegen Anhang III, die Ausnahme nach Art. 6 Abs. 3 mit der Rückausnahme für Profiling, Art. 50 als zusätzliche Ebene, GPAI als zweite Achse.
 - [Was welche Ebene ausschließt](knowledge-base/eu-ai-act/classification-layers.md): warum die Risikoklassen keine Stufenleiter sind und welche Pflichten sich überlagern.
 - [Häufige Fehler](knowledge-base/eu-ai-act/common-classification-errors.md): acht Einstufungsfehler, die in Prüfungen auffallen, jeweils mit Gegenprobe.
 - [Wann neu eingestuft wird](knowledge-base/eu-ai-act/reclassification-logic.md): sechs Auslöser, der stille Modellwechsel beim Anbieter und drei Wege ihn zu bemerken, Pflichtfelder eines Neueintrags.

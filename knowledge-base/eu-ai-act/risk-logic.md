@@ -10,18 +10,22 @@ Dokumentieren Sie auch das Nein. „Geprüft, kein KI-System, weil ausschließli
 
 ## Stufe 1 — Verbotene Praktik?
 
-Art. 5 verbietet bestimmte Praktiken vollständig. Sie sind seit dem **2. Februar 2025** anwendbar und keine Risikoklasse, sondern eine Grenze.
+Art. 5 verbietet bestimmte Praktiken vollständig. Sie sind seit dem **2. Februar 2025** anwendbar — die beiden neuen Buchstaben ba und bb ab dem **2. Dezember 2026** — und sind keine Risikoklasse, sondern eine Grenze.
 
 | | Praktik |
 |---|---|
 | a | Unterschwellige oder manipulative Techniken, die das Verhalten wesentlich verändern |
 | b | Ausnutzung von Schutzbedürftigkeit wegen Alter, Behinderung oder sozialer Lage |
+| ba | Erzeugen oder Manipulieren realistischer intimer Darstellungen identifizierbarer Personen **ohne deren Einwilligung** — anwendbar ab **2.12.2026** |
+| bb | Erzeugen oder Manipulieren von **Darstellungen sexuellen Kindesmissbrauchs** — anwendbar ab **2.12.2026** |
 | c | Soziale Bewertung, die zu benachteiligender Behandlung in unzusammenhängenden Kontexten führt |
 | d | Vorhersage von Straftaten **allein** auf Grundlage von Profiling oder Persönlichkeitsmerkmalen |
 | e | Ungezieltes Auslesen von Gesichtsbildern aus dem Internet oder von Überwachungsaufnahmen zum Aufbau von Datenbanken |
 | f | Emotionserkennung am Arbeitsplatz und in Bildungseinrichtungen |
 | g | Biometrische Kategorisierung zur Ableitung sensibler Merkmale |
 | h | Biometrische Echtzeit-Fernidentifizierung im öffentlich zugänglichen Raum zu Strafverfolgungszwecken |
+
+**ba und bb hat der Digital Omnibus** (Verordnung (EU) 2026/1744) ergänzt. Sie stehen im Text hinter Buchstabe b und haben ein **eigenes Anwendungsdatum**: nicht der 2.2.2025 wie die übrigen, sondern der **2.12.2026**. Für Anbieter greift das Verbot nicht nur bei absichtlicher Erzeugung, sondern auch dann, wenn ein solches Ergebnis vernünftigerweise vorhersehbar und reproduzierbar ist und das System keine Schutzmaßnahmen dagegen eingebaut hat; für Betreiber, wenn sie es zu diesem Zweck einsetzen.
 
 Zu mehreren dieser Verbote gibt es eng gefasste Ausnahmen, etwa bei f aus medizinischen oder Sicherheitsgründen. Wer sich darauf stützt, muss die Ausnahme benennen und belegen — nicht nur behaupten.
 
