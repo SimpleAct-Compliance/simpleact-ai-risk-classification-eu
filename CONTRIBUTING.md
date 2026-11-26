@@ -4,16 +4,16 @@ Dieses Repository beschreibt ein Verfahren, kein Produkt. Es lebt davon, dass Le
 
 ## Besonders willkommen
 
-- **Grenzfälle aus echten Einstufungen** — wo die Reihenfolge nicht trug, wo zwei Leute zu verschiedenen Ergebnissen kamen
-- **Rückmeldungen aus Prüfungen** — wonach tatsächlich gefragt wurde, welches Feld niemand sehen wollte
-- **Korrekturen an Rechtsbezügen** — mit Verweis auf die Fundstelle; Artikel- und Anhangnummern sind hier das Wichtigste
-- **Fristen und Rechtsstände**, wenn sich etwas ändert — mit Datum und Quelle
+- **Grenzfälle aus echten Einstufungen** – wo die Reihenfolge nicht trug, wo zwei Leute zu verschiedenen Ergebnissen kamen
+- **Rückmeldungen aus Prüfungen** – wonach tatsächlich gefragt wurde, welches Feld niemand sehen wollte
+- **Korrekturen an Rechtsbezügen** – mit Verweis auf die Fundstelle; Artikel- und Anhangnummern sind hier das Wichtigste
+- **Fristen und Rechtsstände**, wenn sich etwas ändert – mit Datum und Quelle
 - **Übersetzungen** einzelner Dokumente
 
 ## Weniger hilfreich
 
 - Reine Umformulierungen ohne inhaltliche Änderung
-- Weitere Beispiele für Fälle, die schon klar sind — hilfreich sind die unklaren
+- Weitere Beispiele für Fälle, die schon klar sind – hilfreich sind die unklaren
 - Ergänzungen, die den Umfang vergrößern, ohne eine Frage zu beantworten, die jemand tatsächlich hat
 
 ## Vorgehen
@@ -28,4 +28,4 @@ Beiträge stehen unter der MIT-Lizenz dieses Repositories. Inhalte hier sind kei
 
 ## Kodierung
 
-Alle Dateien sind UTF-8. Das klingt selbstverständlich, war es in diesem Repository aber eine Weile nicht — deutsche Umlaute erschienen auf GitHub als Ersatzzeichen. Wer unter Windows arbeitet, prüft das vor dem Commit.
+Alle Dateien sind UTF-8. Das klingt selbstverständlich, war es in diesem Repository aber eine Weile nicht – deutsche Umlaute erschienen auf GitHub als Ersatzzeichen. Wer unter Windows arbeitet, prüft das vor dem Commit.

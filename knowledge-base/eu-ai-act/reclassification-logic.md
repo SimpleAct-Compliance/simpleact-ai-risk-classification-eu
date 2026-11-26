@@ -1,12 +1,12 @@
 # Wann neu eingestuft werden muss
 
-Eine Einstufung ist eine Aussage über einen Zustand, nicht über ein System. Ändert sich der Zustand, stimmt die Aussage nicht mehr — ohne dass jemand etwas falsch gemacht hätte.
+Eine Einstufung ist eine Aussage über einen Zustand, nicht über ein System. Ändert sich der Zustand, stimmt die Aussage nicht mehr – ohne dass jemand etwas falsch gemacht hätte.
 
 ## Die sechs Auslöser
 
 | Auslöser | Warum er die Einstufung berührt |
 |---|---|
-| **Zweckbestimmung geändert** | Die Klasse hängt daran. Ein Werkzeug, das in einen Anhang-III-Bereich wandert, wechselt die Klasse — und der Betreiber kann zum Anbieter werden. |
+| **Zweckbestimmung geändert** | Die Klasse hängt daran. Ein Werkzeug, das in einen Anhang-III-Bereich wandert, wechselt die Klasse – und der Betreiber kann zum Anbieter werden. |
 | **Modellwechsel beim Anbieter** | Anderes Modell, anderes Verhalten, andere Fehlerarten. Die Schnittstelle bleibt gleich, die Grundlage der Einstufung nicht. |
 | **Neue Datenquelle oder Datenart** | Besondere Kategorien oder biometrische Daten können Art. 5 oder Anhang III auslösen. |
 | **Erweiterter Nutzerkreis** | Ein internes Werkzeug, das Kunden erreicht, berührt andere Betroffene. |
@@ -19,9 +19,9 @@ Ein Anbieter tauscht das zugrunde liegende Modell. Die Schnittstelle bleibt iden
 
 Drei Wege, es überhaupt zu bemerken:
 
-1. **Versionsangabe in der Antwort** — sofern der Anbieter sie mitliefert. Vor Vertragsschluss danach fragen.
+1. **Versionsangabe in der Antwort** – sofern der Anbieter sie mitliefert. Vor Vertragsschluss danach fragen.
 2. **Änderungsverlauf abonnieren**, und zwar an eine Stelle, die ihn auch liest.
-3. **Fester Testsatz**, der regelmäßig durchläuft. Zwanzig Eingaben mit erwarteten Ausgaben, monatlich. Die billigste Frühwarnung, die es gibt — und die einzige, die ohne Mitwirkung des Anbieters funktioniert.
+3. **Fester Testsatz**, der regelmäßig durchläuft. Zwanzig Eingaben mit erwarteten Ausgaben, monatlich. Die billigste Frühwarnung, die es gibt – und die einzige, die ohne Mitwirkung des Anbieters funktioniert.
 
 Die Beschaffungsfragen dazu stehen im [Anbieterregister](https://github.com/SimpleAct-Compliance/simpleact-model-vendor-register).
 
@@ -31,7 +31,7 @@ Eine jährliche Überprüfung ist eine sinnvolle Untergrenze und eine schlechte 
 
 ## Was ein Neueintrag festhalten muss
 
-Die neue Einstufung ersetzt die alte nicht — beide bleiben stehen. In einer Prüfung ist die Frage nicht, wie ein System heute eingestuft ist, sondern wie es eingestuft war, als ein bestimmter Vorfall passierte.
+Die neue Einstufung ersetzt die alte nicht – beide bleiben stehen. In einer Prüfung ist die Frage nicht, wie ein System heute eingestuft ist, sondern wie es eingestuft war, als ein bestimmter Vorfall passierte.
 
 | Feld | Inhalt |
 |---|---|

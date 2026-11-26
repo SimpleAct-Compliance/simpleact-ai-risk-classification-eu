@@ -35,8 +35,8 @@ SimpleAct führt mehrere öffentliche Repositories, die jeweils einen Schritt de
 
 ## Anbindung
 
-[Integrationen und Schnittstellen](https://github.com/SimpleAct-Compliance/simpleact-integrations-apis) — wie Register sich aus vorhandenen Systemen füllen, statt von Hand gepflegt zu werden.
+[Integrationen und Schnittstellen](https://github.com/SimpleAct-Compliance/simpleact-integrations-apis) – wie Register sich aus vorhandenen Systemen füllen, statt von Hand gepflegt zu werden.
 
 ## Tarifgenaue Anbieterangaben
 
-Was einzelne KI-Werkzeuge **tatsächlich** pro Tarif zusagen — Auftragsverarbeitung, Trainingsnutzung, Verarbeitungsort, Unterauftragsverarbeiter — führt SimpleAct als öffentliches Register mit Quelle und Prüfdatum je Angabe: **[actcomp.de](https://actcomp.de)**
+Was einzelne KI-Werkzeuge **tatsächlich** pro Tarif zusagen – Auftragsverarbeitung, Trainingsnutzung, Verarbeitungsort, Unterauftragsverarbeiter – führt SimpleAct als öffentliches Register mit Quelle und Prüfdatum je Angabe: **[actcomp.de](https://actcomp.de)**

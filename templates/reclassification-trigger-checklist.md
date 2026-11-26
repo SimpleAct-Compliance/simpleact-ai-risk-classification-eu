@@ -1,6 +1,6 @@
 # Vorlage: Auslöser prüfen
 
-Zur Wiedervorlage je Einsatzzweck. Die Liste ersetzt keine Neueinstufung — sie stellt fest, ob eine nötig ist.
+Zur Wiedervorlage je Einsatzzweck. Die Liste ersetzt keine Neueinstufung – sie stellt fest, ob eine nötig ist.
 
 **System / Einsatzzweck:** ___  **Letzte Einstufung:** ___  **Geprüft am:** ___  **Geprüft durch:** ___
 
@@ -30,7 +30,7 @@ Beobachtete Abweichung:
 - [ ] Besondere Kategorien nach Art. 9 DSGVO kommen hinzu
 - [ ] Biometrische Daten kommen hinzu
 
-Besondere Kategorien oder Biometrie können Art. 5 oder Anhang III auslösen — dann ist eine vollständige Neueinstufung fällig, keine Ergänzung.
+Besondere Kategorien oder Biometrie können Art. 5 oder Anhang III auslösen – dann ist eine vollständige Neueinstufung fällig, keine Ergänzung.
 
 ### 4 Erweiterter Nutzerkreis
 
@@ -66,7 +66,7 @@ Trägt eine Ausnahme nach Art. 6 Abs. 3 noch, wenn niemand mehr prüft?
 | Letzter Durchlauf | |
 | Abweichungen | |
 
-Zwanzig Eingaben mit erwarteten Ausgaben, monatlich durchlaufen, sind die billigste Frühwarnung — und die einzige, die ohne Mitwirkung des Anbieters funktioniert.
+Zwanzig Eingaben mit erwarteten Ausgaben, monatlich durchlaufen, sind die billigste Frühwarnung – und die einzige, die ohne Mitwirkung des Anbieters funktioniert.
 
 ## Änderungsverlauf des Anbieters
 

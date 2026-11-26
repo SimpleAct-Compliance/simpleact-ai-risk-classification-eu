@@ -18,7 +18,7 @@ Minimales Risiko          ─── nur, wenn nichts davon zutrifft
 
 **Hochrisiko und Transparenz schließen sich nicht aus.** Ein hochriskantes System, das mit Menschen interagiert oder Inhalte erzeugt, erfüllt beide Pflichtenkataloge. „Begrenztes Risiko" ist deshalb keine Stufe unterhalb von Hochrisiko, sondern eine eigene Ebene.
 
-**Minimales Risiko** ist der Rest — und auch dort gilt die KI-Kompetenz nach Art. 4.
+**Minimales Risiko** ist der Rest – und auch dort gilt die KI-Kompetenz nach Art. 4.
 
 ## Die beiden Ebenen quer dazu
 
@@ -32,7 +32,7 @@ GPAI ist keine Risikoklasse, sondern eine eigene Kategorie mit Pflichten für **
 
 Wer ein solches Modell einsetzt, wird dadurch nicht zum Modellanbieter. Wer es wesentlich verändert und unter eigenem Namen bereitstellt, kann es werden.
 
-**Im Eintrag gehört das in ein eigenes Feld**, nicht in die Risikoklasse — sonst steht am Ende „GPAI" dort, wo „hochriskant" oder „minimal" stehen müsste, und die Einstufung ist unbrauchbar.
+**Im Eintrag gehört das in ein eigenes Feld**, nicht in die Risikoklasse – sonst steht am Ende „GPAI" dort, wo „hochriskant" oder „minimal" stehen müsste, und die Einstufung ist unbrauchbar.
 
 ## Warum die Reihenfolge zählt
 
@@ -44,7 +44,7 @@ Wer ein solches Modell einsetzt, wird dadurch nicht zum Modellanbieter. Wer es w
 | 3 | Art. 50 einschlägig? | Transparenzpflichten zusätzlich |
 | 4 | sonst | minimales Risiko |
 
-Wer bei Stufe 2 beginnt, übersieht Stufe 1 — und das ist die einzige, bei der die Antwort nicht „mit Auflagen betreiben" lautet.
+Wer bei Stufe 2 beginnt, übersieht Stufe 1 – und das ist die einzige, bei der die Antwort nicht „mit Auflagen betreiben" lautet.
 
 ## Verwandtes
 

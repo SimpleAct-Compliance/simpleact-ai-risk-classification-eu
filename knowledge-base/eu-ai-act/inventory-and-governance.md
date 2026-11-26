@@ -26,7 +26,7 @@ Ausführlich im [KI-Inventar](https://github.com/SimpleAct-Compliance/simpleact-
 | Hochrisiko | voller Pflichtenkatalog; technische Dokumentation nach Anhang IV |
 | Transparenz (Art. 50) | Kennzeichnung und Hinweise umsetzen, Nachweis ablegen |
 | Minimal | Eintrag im Inventar, KI-Kompetenz, Wiedervorlage |
-| Nicht bewertet | Verantwortlichen und Termin eintragen — ein gültiges Zwischenergebnis |
+| Nicht bewertet | Verantwortlichen und Termin eintragen – ein gültiges Zwischenergebnis |
 
 Die letzte Zeile ist bewusst vorgesehen. Ein offener Punkt mit Namen und Datum ist in einer Prüfung besser als eine geratene Einstufung, die niemand belegen kann.
 
@@ -34,13 +34,13 @@ Die letzte Zeile ist bewusst vorgesehen. Ein offener Punkt mit Namen und Datum i
 
 Eine Einstufung steht nie allein. In den Eintrag gehören Verweise auf:
 
-- **Verarbeitungsverzeichnis** — verarbeitet das System personenbezogene Daten, braucht es dort einen eigenen Eintrag nach Art. 30 DSGVO
-- **Folgenabschätzungen** — DSFA nach Art. 35 DSGVO und, bei Hochrisiko in bestimmten Konstellationen, die Grundrechte-Folgenabschätzung nach Art. 27 AI Act
-- **Anbieterregister** — wer liefert das Modell, mit welchen Zusagen
-- **Vorfallverfahren** — wohin eine Fehlfunktion gemeldet wird
-- **Schulungsstand** — wer darf das System bedienen und beaufsichtigen
+- **Verarbeitungsverzeichnis** – verarbeitet das System personenbezogene Daten, braucht es dort einen eigenen Eintrag nach Art. 30 DSGVO
+- **Folgenabschätzungen** – DSFA nach Art. 35 DSGVO und, bei Hochrisiko in bestimmten Konstellationen, die Grundrechte-Folgenabschätzung nach Art. 27 AI Act
+- **Anbieterregister** – wer liefert das Modell, mit welchen Zusagen
+- **Vorfallverfahren** – wohin eine Fehlfunktion gemeldet wird
+- **Schulungsstand** – wer darf das System bedienen und beaufsichtigen
 
-Fehlt eine dieser Verbindungen, fällt das nicht im Alltag auf, sondern in der Prüfung — und dann als Lücke in der Governance, nicht als vergessenes Feld.
+Fehlt eine dieser Verbindungen, fällt das nicht im Alltag auf, sondern in der Prüfung – und dann als Lücke in der Governance, nicht als vergessenes Feld.
 
 ## Wer entscheidet
 

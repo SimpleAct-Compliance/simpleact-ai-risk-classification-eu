@@ -13,7 +13,7 @@ Zwei Vorlagen, die zusammengehören: eine für die Einstufung, eine für die Fra
 
 **Leerfelder sind kein Ergebnis.** Was nicht bewertet werden kann, bekommt „nicht bewertet" plus Verantwortlichen und Termin. Ein offener Punkt mit Namen ist in einer Prüfung besser als eine geratene Einstufung.
 
-**Alte Versionen bleiben stehen.** Maßgeblich ist, wie ein System eingestuft war, als ein Vorfall passierte — nicht, wie es heute eingestuft ist.
+**Alte Versionen bleiben stehen.** Maßgeblich ist, wie ein System eingestuft war, als ein Vorfall passierte – nicht, wie es heute eingestuft ist.
 
 ## Format
 

@@ -1,23 +1,23 @@
 # Die Einstufungslogik, in der Reihenfolge, in der sie zu durchlaufen ist
 
-Die Reihenfolge ist nicht beliebig. Wer mit der Frage „ist das Hochrisiko?" beginnt, hat die erste Stufe übersprungen — und die ist die einzige, bei der die Antwort lautet: gar nicht betreiben.
+Die Reihenfolge ist nicht beliebig. Wer mit der Frage „ist das Hochrisiko?" beginnt, hat die erste Stufe übersprungen – und die ist die einzige, bei der die Antwort lautet: gar nicht betreiben.
 
-## Stufe 0 — Ist es überhaupt ein KI-System?
+## Stufe 0 – Ist es überhaupt ein KI-System?
 
 Leitet das System aus Eingaben ab, wie es Ausgaben erzeugt? Wenn nein, endet die Prüfung hier. Festverdrahtete Regeln, Schwellenwerte und Formeln fallen nicht darunter.
 
 Dokumentieren Sie auch das Nein. „Geprüft, kein KI-System, weil ausschließlich feste Regeln" ist ein Ergebnis, das in einer Prüfung zählt.
 
-## Stufe 1 — Verbotene Praktik?
+## Stufe 1 – Verbotene Praktik?
 
-Art. 5 verbietet bestimmte Praktiken vollständig. Sie sind seit dem **2. Februar 2025** anwendbar — die beiden neuen Buchstaben ba und bb ab dem **2. Dezember 2026** — und sind keine Risikoklasse, sondern eine Grenze.
+Art. 5 verbietet bestimmte Praktiken vollständig. Sie sind seit dem **2. Februar 2025** anwendbar – die beiden neuen Buchstaben ba und bb ab dem **2. Dezember 2026** – und sind keine Risikoklasse, sondern eine Grenze.
 
 | | Praktik |
 |---|---|
 | a | Unterschwellige oder manipulative Techniken, die das Verhalten wesentlich verändern |
 | b | Ausnutzung von Schutzbedürftigkeit wegen Alter, Behinderung oder sozialer Lage |
-| ba | Erzeugen oder Manipulieren realistischer intimer Darstellungen identifizierbarer Personen **ohne deren Einwilligung** — anwendbar ab **2.12.2026** |
-| bb | Erzeugen oder Manipulieren von **Darstellungen sexuellen Kindesmissbrauchs** — anwendbar ab **2.12.2026** |
+| ba | Erzeugen oder Manipulieren realistischer intimer Darstellungen identifizierbarer Personen **ohne deren Einwilligung** – anwendbar ab **2.12.2026** |
+| bb | Erzeugen oder Manipulieren von **Darstellungen sexuellen Kindesmissbrauchs** – anwendbar ab **2.12.2026** |
 | c | Soziale Bewertung, die zu benachteiligender Behandlung in unzusammenhängenden Kontexten führt |
 | d | Vorhersage von Straftaten **allein** auf Grundlage von Profiling oder Persönlichkeitsmerkmalen |
 | e | Ungezieltes Auslesen von Gesichtsbildern aus dem Internet oder von Überwachungsaufnahmen zum Aufbau von Datenbanken |
@@ -27,17 +27,17 @@ Art. 5 verbietet bestimmte Praktiken vollständig. Sie sind seit dem **2. Februa
 
 **ba und bb hat der Digital Omnibus** (Verordnung (EU) 2026/1744) ergänzt. Sie stehen im Text hinter Buchstabe b und haben ein **eigenes Anwendungsdatum**: nicht der 2.2.2025 wie die übrigen, sondern der **2.12.2026**. Für Anbieter greift das Verbot nicht nur bei absichtlicher Erzeugung, sondern auch dann, wenn ein solches Ergebnis vernünftigerweise vorhersehbar und reproduzierbar ist und das System keine Schutzmaßnahmen dagegen eingebaut hat; für Betreiber, wenn sie es zu diesem Zweck einsetzen.
 
-Zu mehreren dieser Verbote gibt es eng gefasste Ausnahmen, etwa bei f aus medizinischen oder Sicherheitsgründen. Wer sich darauf stützt, muss die Ausnahme benennen und belegen — nicht nur behaupten.
+Zu mehreren dieser Verbote gibt es eng gefasste Ausnahmen, etwa bei f aus medizinischen oder Sicherheitsgründen. Wer sich darauf stützt, muss die Ausnahme benennen und belegen – nicht nur behaupten.
 
 **Trifft eine Praktik zu, endet die Einstufung.** Es gibt keine Auflagen, mit denen sie zulässig würde.
 
-## Stufe 2 — Hochrisiko?
+## Stufe 2 – Hochrisiko?
 
 Es gibt **zwei** Wege in die Hochrisiko-Klasse, und sie sind unabhängig voneinander.
 
-**Weg A — Anhang I: Sicherheitsbauteil eines regulierten Produkts.** Das System ist Sicherheitsbauteil eines Produkts, das unter eine der in Anhang I genannten Harmonisierungsvorschriften fällt, oder ist selbst ein solches Produkt — und das Produkt unterliegt einer Konformitätsbewertung durch Dritte. Betrifft Maschinen, Medizinprodukte, Aufzüge, Spielzeug, Fahrzeuge und weitere.
+**Weg A – Anhang I: Sicherheitsbauteil eines regulierten Produkts.** Das System ist Sicherheitsbauteil eines Produkts, das unter eine der in Anhang I genannten Harmonisierungsvorschriften fällt, oder ist selbst ein solches Produkt – und das Produkt unterliegt einer Konformitätsbewertung durch Dritte. Betrifft Maschinen, Medizinprodukte, Aufzüge, Spielzeug, Fahrzeuge und weitere.
 
-**Weg B — Anhang III: acht Bereiche.**
+**Weg B – Anhang III: acht Bereiche.**
 
 1. Biometrie, soweit zulässig
 2. Kritische Infrastruktur
@@ -52,7 +52,7 @@ Die meisten Unternehmen treffen auf Nummer 4 und 5, selten auf die übrigen.
 
 ### Die Ausnahme in Stufe 2, die oft übersehen wird
 
-Ein System, das in einen Anhang-III-Bereich fällt, gilt **nicht** als hochriskant, wenn es kein erhebliches Risiko für Gesundheit, Sicherheit oder Grundrechte birgt — weil es
+Ein System, das in einen Anhang-III-Bereich fällt, gilt **nicht** als hochriskant, wenn es kein erhebliches Risiko für Gesundheit, Sicherheit oder Grundrechte birgt – weil es
 
 - eine eng gefasste **Verfahrensaufgabe** erfüllt,
 - das Ergebnis einer zuvor **abgeschlossenen menschlichen Tätigkeit** lediglich verbessert,
@@ -61,9 +61,9 @@ Ein System, das in einen Anhang-III-Bereich fällt, gilt **nicht** als hochriska
 
 **Eine Rückausnahme hebt das wieder auf:** Führt das System ein **Profiling natürlicher Personen** durch, bleibt es in jedem Fall hochriskant.
 
-Wer sich auf diese Ausnahme stützt, muss die Einschätzung dokumentieren — und das ist der Punkt, an dem die meisten Einstufungen angreifbar sind. Ein Satz wie „nur vorbereitend" ohne Beschreibung, was das System genau tut und was danach ein Mensch tatsächlich entscheidet, trägt nicht.
+Wer sich auf diese Ausnahme stützt, muss die Einschätzung dokumentieren – und das ist der Punkt, an dem die meisten Einstufungen angreifbar sind. Ein Satz wie „nur vorbereitend" ohne Beschreibung, was das System genau tut und was danach ein Mensch tatsächlich entscheidet, trägt nicht.
 
-## Stufe 3 — Transparenzpflichten nach Art. 50
+## Stufe 3 – Transparenzpflichten nach Art. 50
 
 Diese Pflichten gelten **zusätzlich** und unabhängig von der Risikoklasse. Sie sind seit dem **2. August 2026** anwendbar.
 
@@ -76,9 +76,9 @@ Diese Pflichten gelten **zusätzlich** und unabhängig von der Risikoklasse. Sie
 
 Ein hochriskantes System kann gleichzeitig unter Art. 50 fallen. „Begrenztes Risiko" ist deshalb keine Klasse unterhalb von Hochrisiko, sondern eine eigene Pflichtenebene.
 
-## Stufe 4 — Minimales Risiko
+## Stufe 4 – Minimales Risiko
 
-Alles Übrige. Keine besonderen Pflichten aus der Verordnung — mit **einer** Ausnahme, die unabhängig von der Klasse gilt: die KI-Kompetenz nach Art. 4, anwendbar seit dem 2. Februar 2025.
+Alles Übrige. Keine besonderen Pflichten aus der Verordnung – mit **einer** Ausnahme, die unabhängig von der Klasse gilt: die KI-Kompetenz nach Art. 4, anwendbar seit dem 2. Februar 2025.
 
 ## Die zweite Achse: Modelle mit allgemeinem Verwendungszweck
 

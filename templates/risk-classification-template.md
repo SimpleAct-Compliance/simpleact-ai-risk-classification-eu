@@ -1,6 +1,6 @@
 # Vorlage: Einstufungsbogen
 
-Ein Bogen **je Einsatzzweck**, nicht je Werkzeug. Ein Werkzeug mit drei Einsatzzwecken braucht drei Bögen — die Klasse kann in jedem anders ausfallen.
+Ein Bogen **je Einsatzzweck**, nicht je Werkzeug. Ein Werkzeug mit drei Einsatzzwecken braucht drei Bögen – die Klasse kann in jedem anders ausfallen.
 
 Leerfelder sind kein Ergebnis. Was nicht bewertet werden kann, bekommt „nicht bewertet" plus Verantwortlichen und Termin.
 
@@ -17,9 +17,9 @@ Leerfelder sind kein Ergebnis. Was nicht bewertet werden kann, bekommt „nicht 
 | Fachbereich | |
 | Interne Kennung (Verweis ins KI-Inventar) | |
 
-**Betroffenenkreis** — wessen Rechte, Chancen oder Zugang die Ausgabe berührt:
+**Betroffenenkreis** – wessen Rechte, Chancen oder Zugang die Ausgabe berührt:
 
-**Menschliche Aufsicht** — wer prüft die Ausgabe, mit welcher Befugnis, in welcher Zeit? (Nicht: ob jemand sie theoretisch sehen könnte.)
+**Menschliche Aufsicht** – wer prüft die Ausgabe, mit welcher Befugnis, in welcher Zeit? (Nicht: ob jemand sie theoretisch sehen könnte.)
 
 ## 2 Rolle der eigenen Organisation
 
@@ -35,19 +35,19 @@ Ein Ja in einer der letzten vier Zeilen kann die Organisation nach Art. 25 zum *
 
 ## 3 Einstufung
 
-### Schritt 1 — KI-System nach Art. 3 Nr. 1?
+### Schritt 1 – KI-System nach Art. 3 Nr. 1?
 
 ja / nein · Begründung:
 
 Bei Nein endet die Prüfung hier. Die Begründung bleibt trotzdem stehen.
 
-### Schritt 2 — Ausnahme?
+### Schritt 2 – Ausnahme?
 
 Militär/nationale Sicherheit · reine F&E · rein private Nutzung · keine
 
 Begründung:
 
-### Schritt 3 — Verbotene Praktik nach Art. 5?
+### Schritt 3 – Verbotene Praktik nach Art. 5?
 
 Alle zehn Praktiken durchgegangen: ja / nein
 
@@ -55,7 +55,7 @@ Treffer: keiner / Nr. ___
 
 Bei einem Treffer endet die Prüfung. Der Betrieb ist einzustellen; ein Verbot lässt sich nicht durch Dokumentation heilen. Begründung und Folgemaßnahmen:
 
-### Schritt 4 — Hochrisiko?
+### Schritt 4 – Hochrisiko?
 
 | Prüfung | Ergebnis |
 |---|---|
@@ -72,11 +72,11 @@ Bei Anhang-III-Treffer: **Ausnahme nach Art. 6 Abs. 3** geprüft?
 | Nur vorbereitende Tätigkeit? | |
 | **Wird profiliert?** | ja / nein |
 
-Ein Ja bei Profiling schließt die Ausnahme aus — unabhängig von allen Zeilen darüber.
+Ein Ja bei Profiling schließt die Ausnahme aus – unabhängig von allen Zeilen darüber.
 
 Bewertung (die Verordnung verlangt sie dokumentiert, nicht nur behauptet):
 
-### Schritt 5 — Transparenz nach Art. 50?
+### Schritt 5 – Transparenz nach Art. 50?
 
 Diese Prüfung läuft **unabhängig** vom Ergebnis aus Schritt 4.
 
@@ -89,11 +89,11 @@ Diese Prüfung läuft **unabhängig** vom Ergebnis aus Schritt 4.
 
 Umgesetzte Kennzeichnung, mit Fundstelle im Produkt:
 
-### Quer dazu — Modell mit allgemeinem Verwendungszweck?
+### Quer dazu – Modell mit allgemeinem Verwendungszweck?
 
 Liegt ein GPAI-Modell zugrunde: ja / nein. Wer ist dafür Anbieter?
 
-### Art. 4 — KI-Kompetenz
+### Art. 4 – KI-Kompetenz
 
 Wer bedient und beaufsichtigt das System, und mit welchem Schulungsstand?
 
@@ -103,7 +103,7 @@ Wer bedient und beaufsichtigt das System, und mit welchem Schulungsstand?
 |---|---|
 | **Rechtliche Klasse** | verboten / Hochrisiko / Transparenzpflicht / minimal |
 | **Rechtsgrundlage** | Artikel oder Anhang, konkret |
-| **Interne Risikoeinschätzung** | niedrig / mittel / hoch — *getrenntes Feld, nicht dasselbe* |
+| **Interne Risikoeinschätzung** | niedrig / mittel / hoch – *getrenntes Feld, nicht dasselbe* |
 | Begründung der internen Einschätzung | |
 
 Die beiden Risikofelder bleiben getrennt. Ein System kann rechtlich minimal und betrieblich riskant sein.
@@ -148,4 +148,4 @@ Wiedervorlage: ___
 | Datum | |
 | Version dieses Bogens | |
 
-Frühere Versionen bleiben erhalten. Maßgeblich ist, wie ein System eingestuft war, als ein Vorfall passierte — nicht, wie es heute eingestuft ist.
+Frühere Versionen bleiben erhalten. Maßgeblich ist, wie ein System eingestuft war, als ein Vorfall passierte – nicht, wie es heute eingestuft ist.
